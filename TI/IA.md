@@ -1,0 +1,36 @@
+# 🤖 **Inteligência Artificial**
+- 🧠 **Aprendizado de Máquina (Machine Learning)**
+  - ✅ *Supervisionado*
+  - 🔍 *Não supervisionado*
+  - 🎯 *Por reforço*
+  - 🌳 **Árvores de decisão**
+  - 🧬 **==Deep Learning==**
+    - 🧠 **Redes Neurais Artificiais**
+      - 🔹 *Perceptron*
+      - 🔸 *Redes multicamadas (MLP)*
+      - 🖼️ *CNN* (Visão computacional)
+      - 🗣️ *RNN* (Processamento de linguagem)
+- 👨‍⚖️ **Sistemas Especialistas**
+  - 📚 **Base de Conhecimento**
+  - 🔄 **Motor de Inferência**
+  - 📏 **Sistemas Baseados em Regras**
+    - ➡️ *SE condição → ENTÃO ação*
+- 🧩 **Ontologias**
+  - 🧠 *Estruturação de conhecimento*
+  - 🌐 *Web semântica*
+  - 🧾 *Conceitos, relações e propriedades*
+- ♻️ **Raciocínio Baseado em Casos (CBR)**
+  - 📂 *Armazena casos anteriores*
+  - 🛠️ *Adapta soluções para novos problemas*
+- 🤝 **Sistemas Multiagente**
+  - 🤖 *Agentes autônomos*
+  - 👥 *Interação cooperativa ou competitiva*
+  - 🌐 *Resolução de problemas distribuídos*
+- 🗣️ **PLN – Processamento de Linguagem Natural**
+  - 📖 *Compreensão de texto*
+  - ✍️ *Geração de linguagem natural*
+  - 🧠 *Modelos: GPT, BERT, etc.*
+- 🌫️ **Lógica Fuzzy (Nebulosa)**
+  - 🎚️ *Trabalha com valores parciais*
+  - 💡 *Exemplo: "temperatura quente" ≠ 100%*
+  - ⚙️ *Controle inteligente com incertezas*
