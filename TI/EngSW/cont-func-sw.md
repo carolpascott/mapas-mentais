@@ -71,6 +71,16 @@
 - Metodologia alternativa (padrão europeu).
 - Mais simples que IFPUG, boa para estimativas rápidas.
 - Permite contagem parcial e considera algumas funções não funcionais.
+- Tipos:
+  - Detalhada
+    - igual PF
+  - Estimativa
+    - AIE | ALI (complex. baixa)
+    - EE, CE, SE (complex. média)
+  - Indicativa
+    - PF = (35 x número de ALIs) + (15 x número de AIEs)  
+  
+
 
 ## 🧠 Deflatores (Fatores de Ajuste Técnico)
 - Ajustam a contagem de PF com base na **complexidade técnica e ambiental**.
