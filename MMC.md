@@ -26,6 +26,7 @@
 
 ### Segurança da Informação 
   - [Soluções [prévia]](https://carolpascott.github.io/mapas-mentais/TI/SegInfo/solucoes-seg-info.html)
+  - [ISO 27002](https://carolpascott.github.io/mapas-mentais/TI/SegInfo/ISO-27002.html)
 
 ### SQL
  - [SQL](https://carolpascott.github.io/mapas-mentais/TI/BD/SQL.html)
