@@ -1,6 +1,6 @@
 ---
 markmap:
-  initialExpandLevel: 4
+  initialExpandLevel: 2
   maxWidth: 300
 ---
 
@@ -35,7 +35,7 @@ markmap:
 
 ---
 
-## **3. Competência Legislativa** *(Art. 7º)*
+## **3. Competência Legislativa** *(Art. 7º + CF)*
 
 - Compete **privativamente à União** legislar sobre:
   - Seguros
@@ -66,7 +66,15 @@ markmap:
   - **Verbal**
   - **Digital**
   - Desde que comprovável 🟩 *(Lei nº 15.040/2024)*
-
+- **Risco** Segurável:
+  - futuro
+  - incerto
+  - ==independente da vontade das partes==
+  - que possa gerar prejuízo financeiro
+- **Sinistros** devem ter origem em evento:
+  - súbito
+  - involuntário
+  - imprevvisto 
 ---
 
 ## **6. Valor Jurídico da Apólice** *(Art. 11)*
@@ -92,18 +100,25 @@ markmap:
 
 ## **Seguros obrigatórios** *(Art. 20)*
 - Passageiros em aeronaves
-- Responsabilidade civil do transportador aéreo
-- Responsabilidade civil do construtor de imóveis
-  - zonas urbanas
-  - por danos a pessoas ou coisas
-- Seguro de responsabilidade civil do transportador marítimo
-- Seguro de responsabilidade civil do transportador terrestre
-- Seguro de crédito à exportação
-- Seguro de responsabilidade civil por danos causados por embarcações
+- Responsabilidade civil do **transportador aéreo**
+- Responsabilidade civil do **construtor de imóveis**
+  - em zonas urbanas por danos a pessoas ou coisas
+  - pelo cumprimento das obrigações
+  - do pagamento a cargo de mutuário
+  - dos edifícios divididos em unidades autônomas
+- incêndio e transporte de bens de PJ (exceto a União)
+- Crédito à exportação, quando conveniente
+- **Danos pessoais causados por embarcações, ou por sua carga, a pessoas transportadas
+ou não** 🟩
+- Responsabilidade civil dos **transportadores**
+  -  terrestres,
+  -  marítimos,
+  -  fluviais e
+  -  lacustres
 
 ---
 
-## **9. Estipulante** *(Art. 23 a 25)*
+## **9. Estipulante** *(Art. 21)*
 
 - Contrata o seguro em nome de terceiros
 - Deveres:
@@ -142,13 +157,13 @@ markmap:
 
 - **Composição**:
   - Ministro da Fazenda (**Presidente**)
-  - Superintendente da SUSEP
+  - Superintendente da SUSEP (substituto)
   - Ministério da Justiça
   - Ministério da Previdência
   - Banco Central
   
 - **Funções**:
-  - Normatizar e regulamentar
+  - Fixar ==diretrizes e normas== da política de **seguros privados**
   - Estabelecer regras para:
     - Resseguro
     - Cosseguro
@@ -161,6 +176,7 @@ markmap:
 
 - **Autarquia federal** vinculada ao Min. da Fazenda
 - **Atribuições**:
+  - ==Executor==
   - Autorizar funcionamento
   - Fiscalizar e aplicar sanções
   - Processar infrações administrativas
