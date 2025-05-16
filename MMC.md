@@ -23,4 +23,9 @@
 
 ### Segurança da Informação 
   - [Soluções [prévia]](https://carolpascott.github.io/mapas-mentais/TI/SegInfo/solucoes-seg-info.html)
-  
+
+### SQL
+ - [SQL](https://carolpascott.github.io/mapas-mentais/TI/BD/SQL.html)
+
+### Docker e Kubernetes
+ - [Docker e Kubernetes](https://carolpascott.github.io/mapas-mentais/TI/Infra/docker-kubernets.html)
