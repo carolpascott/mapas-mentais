@@ -1,6 +1,9 @@
 # MMC - Mapas Mentais da Carol
 ## Foco:  SUSEP
 **********************************************
+## SUSEP
+   - [Introdução SUSEP](https://carolpascott.github.io/mapas-mentais/SUSEP/intro_SUSEP.html)
+   - [Lei 73/66](https://carolpascott.github.io/mapas-mentais/SUSEP/lei73.html)
 
 ## D. Administrativo
   **Licitações** [em revisão]
