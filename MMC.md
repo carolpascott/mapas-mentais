@@ -1,16 +1,4 @@
 # MMC - Mapas Mentais da Carol
-## Foco:  SUSEP
-**********************************************
-## SUSEP
-   - [Introdução SUSEP](https://carolpascott.github.io/mapas-mentais/SUSEP/intro_SUSEP.html)
-   - [Lei 73/66](https://carolpascott.github.io/mapas-mentais/SUSEP/lei73.html)
-
-## D. Administrativo
-  **Licitações** [em revisão]
-  
-  - [Licitação](https://carolpascott.github.io/mapas-mentais/D-Adm/licitacoes.html)
-    
-  - [Decreto 11.462](https://carolpascott.github.io/mapas-mentais/D-Adm/dec-11462-licitacao.html)
 
 **********************************************
 
@@ -33,3 +21,12 @@
 
 ### Docker e Kubernetes
  - [Docker e Kubernetes](https://carolpascott.github.io/mapas-mentais/TI/Infra/docker-kubernets.html)
+
+**********************************************
+
+## D. Administrativo
+  **Licitações** [em revisão]
+  
+  - [Licitação](https://carolpascott.github.io/mapas-mentais/D-Adm/licitacoes.html)
+    
+  - [Decreto 11.462](https://carolpascott.github.io/mapas-mentais/D-Adm/dec-11462-licitacao.html)
